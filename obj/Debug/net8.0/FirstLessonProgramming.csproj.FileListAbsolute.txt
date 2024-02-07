@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\bin\Debug\net8.0\FirstLessonProgramming.exe
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\bin\Debug\net8.0\FirstLessonProgramming.deps.json
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\bin\Debug\net8.0\FirstLessonProgramming.runtimeconfig.json
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\bin\Debug\net8.0\FirstLessonProgramming.dll
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\bin\Debug\net8.0\FirstLessonProgramming.pdb
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net8.0\FirstLessonProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net8.0\FirstLessonProgramming.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net8.0\FirstLessonProgramming.AssemblyInfo.cs
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net8.0\FirstLessonProgramming.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net8.0\FirstLessonProgramming.dll
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net8.0\refint\FirstLessonProgramming.dll
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net8.0\FirstLessonProgramming.pdb
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net8.0\FirstLessonProgramming.genruntimeconfig.cache
+C:\Users\User\Desktop\Proqamlasdirma\FirstLessonProgramming\FirstLessonProgramming\obj\Debug\net8.0\ref\FirstLessonProgramming.dll
